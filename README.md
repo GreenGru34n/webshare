@@ -2,7 +2,16 @@
 
 > **Serverless, zero-signup P2P screen sharing — one HTML file, no install required.**
 
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![No Server](https://img.shields.io/badge/server-none-brightgreen?style=flat-square)
+![No Signup](https://img.shields.io/badge/signup-none-brightgreen?style=flat-square)
+![Single File](https://img.shields.io/badge/size-single%20file-blue?style=flat-square)
+![WebRTC](https://img.shields.io/badge/powered%20by-WebRTC-orange?style=flat-square)
+![Works Offline](https://img.shields.io/badge/works%20from-file%3A%2F%2F-blueviolet?style=flat-square)
+
 ScreenLink lets you share your screen with anyone using only a browser. There is no server, no account, no extension, and no data ever leaves your machine to a third party. It runs entirely from a single `.html` file, including directly off `file://`.
+
+**If this project is useful to you, consider giving it a ⭐ — it helps others find it!**
 
 ---
 
@@ -87,6 +96,12 @@ ICE candidates are gathered using Google's public STUN servers (`stun.l.google.c
 webshare/
 └── screenlink.html   # The entire app — HTML, CSS, and JS in one file
 ```
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
